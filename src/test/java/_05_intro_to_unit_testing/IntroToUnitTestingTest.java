@@ -2,6 +2,8 @@ package _05_intro_to_unit_testing;
 
 import org.junit.jupiter.api.Test;
 
+import _05_intro_to_unit_testing.IntroToUnitTesting;
+
 import javax.swing.*;
 
 import static org.junit.jupiter.api.Assertions.*;
